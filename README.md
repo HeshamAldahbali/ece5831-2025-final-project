@@ -148,6 +148,6 @@ data methodology can be just as important as algorithm design.
 
   - *Presentation Video:* https://drive.google.com/file/d/1HLpCMR5F6RUcp00lCsNNZGkEgsJAQTAx/view?usp=drive_link
   - *Presentation Slides:* https://docs.google.com/presentation/d/1I4rsW9cnInEskwuuR79REI_QWT7uH4eW/edit?usp=drive_link&ouid=105466048010951539919&rtpof=true&sd=true
-  - *Project Report:* https://drive.google.com/file/d/1CQSuspAZnBWxo_edmemvlkSx3qL8jh72/view?usp=drive_link
+  - *Project Report:* https://drive.google.com/file/d/14B7Tw5D58DSRSrVCGLNh95lAmXmFrAy1/view?usp=sharing
   - *Dataset:* https://drive.google.com/file/d/1h06TPXhYAgNleb4bdDiHnP0aUIn0WAXI/view?usp=drive_link
   - *Demo Video:* https://youtu.be/TUQWQDLSwyY
