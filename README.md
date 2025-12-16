@@ -141,3 +141,13 @@ Phase 4: Controlled Data Collection (Solution)
 ------------------------------------------------------------
 This project demonstrates that in machine learning systems,
 data methodology can be just as important as algorithm design.
+
+
+
+## Google drive Files Links
+
+  - *Presentation Video:* 
+  - *Presentation Slides:* https://drive.google.com/drive/folders/1QwCB7mRphUGjpWbzxYZqEJBjjyBBph5V?usp=sharing
+  - *Project Report:* https://drive.google.com/drive/folders/1QwCB7mRphUGjpWbzxYZqEJBjjyBBph5V?usp=sharing
+  - *Dataset:*
+  - *Demo Video:* https://youtu.be/TUQWQDLSwyY
