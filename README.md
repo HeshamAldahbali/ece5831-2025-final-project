@@ -1,6 +1,6 @@
-============================================================
+
 🎙️ Voice-Based Speaker Recognition Using MFCC and LSTM
-============================================================
+------------------------------------------------------------
 
 Project: Speaker Identification System
 Course: ECE 5831 – Pattern Recognition and Neural Networks
@@ -146,8 +146,8 @@ data methodology can be just as important as algorithm design.
 
 ## Google drive Files Links
 
-  - *Presentation Video:* 
-  - *Presentation Slides:* https://drive.google.com/drive/folders/1QwCB7mRphUGjpWbzxYZqEJBjjyBBph5V?usp=sharing
-  - *Project Report:* https://drive.google.com/drive/folders/1QwCB7mRphUGjpWbzxYZqEJBjjyBBph5V?usp=sharing
-  - *Dataset:*
+  - *Presentation Video:* https://drive.google.com/file/d/1HLpCMR5F6RUcp00lCsNNZGkEgsJAQTAx/view?usp=drive_link
+  - *Presentation Slides:* https://docs.google.com/presentation/d/1I4rsW9cnInEskwuuR79REI_QWT7uH4eW/edit?usp=drive_link&ouid=105466048010951539919&rtpof=true&sd=true
+  - *Project Report:* https://drive.google.com/file/d/1CQSuspAZnBWxo_edmemvlkSx3qL8jh72/view?usp=drive_link
+  - *Dataset:* https://drive.google.com/file/d/1h06TPXhYAgNleb4bdDiHnP0aUIn0WAXI/view?usp=drive_link
   - *Demo Video:* https://youtu.be/TUQWQDLSwyY
